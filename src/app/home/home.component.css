@@ -1,0 +1,18 @@
+#leftbox {
+    float: left;
+    /* background: Red; */
+    width: 50%;
+    height: 100%;
+}
+
+#rightbox {
+    float: right;
+    /* background: blue; */
+    width: 50%;
+    height: 100%;
+}
+
+h1 {
+    color: green;
+    text-align: center;
+}
